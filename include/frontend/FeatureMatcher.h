@@ -59,7 +59,7 @@ namespace ldso {
         bool checkOrientation = true;
 
         // configuation
-        const int TH_LOW = 50;
+        const int TH_LOW = 70;
         const int TH_HIGH = 100;
         const int HISTO_LENGTH = 30;
 
